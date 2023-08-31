@@ -1,0 +1,6 @@
+python is widele used high-level language 
+Python supports multiple programming paradigms
+Its syntax allows programmers to express a concept in less code
+It has a huge library of functions
+Programmers can make own library and package
+python is latest language
